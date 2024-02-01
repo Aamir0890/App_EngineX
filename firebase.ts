@@ -7,12 +7,7 @@ import 'firebase/compat/firestore'
 
 
 const firebaseConfig = {
-  apiKey: "AIzaSyC1Z5_g3CffnFOeTrUHAN_L6Vg6v-4QJJ4",
-  authDomain: "counselor-54598.firebaseapp.com",
-  projectId: "counselor-54598",
-  storageBucket: "counselor-54598.appspot.com",
-  messagingSenderId: "329559746567",
-  appId: "1:329559746567:web:2810209acf9ee001a3a2a2"
+ 
 };
 
 // Initialize Firebase

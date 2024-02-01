@@ -51,7 +51,7 @@ navigation.navigate("SignUp")
   
    useEffect(()=>{
    GoogleSignin.configure({
-    webClientId:"329559746567-dk59jgnr8292pkm4l2usfm6vv2bfgn1i.apps.googleusercontent.com"
+    webClientId:""
    })
    },[])
    const auth=FIREBASE_AUTH
