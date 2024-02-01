@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "329559746567",
+    "project_id": "counselor-54598",
+    "storage_bucket": "counselor-54598.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:329559746567:android:de16ac641768ac2ba3a2a2",
+        "android_client_info": {
+          "package_name": "com.aamir.counselling"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "329559746567-0620gui7orv32s1aai5to7dt1ufrde67.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.aamir.counselling",
+            "certificate_hash": "f9343463333f1accb1c709bf52857b7e36b36068"
+          }
+        },
+        {
+          "client_id": "329559746567-dk59jgnr8292pkm4l2usfm6vv2bfgn1i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4HuEHqPn9BiU_7Mjdb1MyEO-CyPw0XZg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "329559746567-dk59jgnr8292pkm4l2usfm6vv2bfgn1i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
